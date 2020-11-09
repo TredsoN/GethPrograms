@@ -1,7 +1,9 @@
-# StarCloudStudy
+# GethPrograms
 
-A cloud study platform with front end using Unity and back end using spring.
+Contains two programs about Go-Ethereum:
 
-Work done by Wang Zilong, Hu Longchen, Guo Ruijing, Ye Ruiwen.
+1.Transaction monitoring, sending and receiving.
 
-Course project for software engineering 2020.
+2.Recharge and withdrawal platform.
+
+Work of summer internship, 2020

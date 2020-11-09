@@ -1,0 +1,6 @@
+=============== Aug 24, 2020 (CST) ===============
+23:56:33.791902 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:56:33.798882 db@open opening
+23:56:33.801873 version@stat F·[] S·0B[] Sc·[]
+23:56:33.804866 db@janitor F·2 G·0
+23:56:33.804866 db@open done T·5.9833ms

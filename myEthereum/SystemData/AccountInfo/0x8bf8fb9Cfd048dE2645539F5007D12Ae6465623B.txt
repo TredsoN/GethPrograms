@@ -1,0 +1,31 @@
+{
+"addrbalance": "0",
+"balance": "50000000000000000",
+"pendingbalance": "50000000000000000",
+"transactions": [
+{
+"amount": "50000000000000000",
+"hash": "0x6e2ca589181e2c997da430522ea1e300f1edaf2d4e5a6737b004e58304c8a393",
+"status": "1",
+"type": "0"
+},
+{
+"amount": "50000000000000000",
+"hash": "0xf45a79595f1de9cb8d61dd407ab8cb5c6719454078bc1df150fa7cf9a6d91819",
+"status": "1",
+"type": "1"
+},
+{
+"amount": "50000000000000000",
+"hash": "0x35b8538931125bacd148ae80f407038447478afa4429bd97901a752301098848",
+"status": "1",
+"type": "0"
+},
+{
+"amount": "50000000000000000",
+"hash": "0x561c462f196e04e836bd2b0e82431ddcd34f552e777a760178a4755ebc40d545",
+"status": "1",
+"type": "2"
+}
+]
+}

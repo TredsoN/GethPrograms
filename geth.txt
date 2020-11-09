@@ -1,0 +1,20 @@
+geth --datadir data init genesis.json
+
+开启RPC
+geth --datadir chain_30 --networkid 30 --rpc --rpcapi "db,eth,net,web3,personal" --rpcaddr localhost --rpcport "8545" console
+
+查询余额
+web3.fromWei(eth.getBalance(eth.accounts[1]),"ether")
+
+设置矿工
+miner.setEtherbase(eth.accounts[6]);miner.start(2);admin.sleepBlocks(10);miner.stop()
+
+查询挂起交易
+eth.pendingTransactions
+
+解锁账户，发起交易
+personal.unlockAccount(eth.accounts[0])
+eth.sendTransaction({from:eth.accounts[0],to:eth.accounts[1],value:web3.toWei(200,"ether")})
+
+eth.blockNumber
+eth.getBlock(4517)

@@ -1,0 +1,8 @@
+eth.accounts
+eth.pendingTransactions
+miner.setEtherbase(eth.account[0])
+miner.setEtherbase(eth.accounts[0])
+miner.start(2);admin.sleepBlocks(10);miner.stop()
+miner.setEtherbase(eth.accounts[0])
+eth.pendingTransactions
+eth.accounts

@@ -1,0 +1,34 @@
+{
+"accounts": [
+{
+"address": "0xc0093215beC3Cbb9522352DCB4E3fa8fd5b665D1",
+"mnemonic": "inmate energy transfer mesh cinnamon educate slide latin veteran excess dance say scissors provide reveal link have caught orphan fruit can clog degree damp",
+"status": "-1"
+},
+{
+"address": "0x8bf8fb9Cfd048dE2645539F5007D12Ae6465623B",
+"mnemonic": "bright best hello addict year awful salmon liar hurdle proof else today brick rose front dress digital base upon unaware foot gold crucial divorce",
+"status": "1"
+},
+{
+"address": "0x297fCA8450553A3C9103Dd410B59e79CDf6F4a0A",
+"mnemonic": "bottom theme muscle dune trigger blossom apple wing inform weekend tourist lava rate seminar tribe twist help reduce enlist window reform shy sport update",
+"status": "0"
+},
+{
+"address": "0x85BDD4c54fC8689e2973aB8DeD1cF46C55243E05",
+"mnemonic": "enough saddle tent sort sugar tiger yard adjust valley marine edit thunder chunk quit tenant grief gesture idle aspect nut brisk question addict banner",
+"status": "0"
+},
+{
+"address": "0x7e5BEfa8b17710F881F9011425a93E47DFA8590e",
+"mnemonic": "spare isolate brief raccoon echo powder license decorate dismiss embody behind because miss busy piano mushroom mixture habit absent visual hotel evoke capital remove",
+"status": "0"
+},
+{
+"address": "0xf81233b607aa4178Ed9E9E1E1A876B683619ef47",
+"mnemonic": "brother bird pool time promote scale execute sentence eternal fury pony sunny notable robust wrong effort way garage pigeon dirt meadow cotton three horror",
+"status": "0"
+}
+]
+}

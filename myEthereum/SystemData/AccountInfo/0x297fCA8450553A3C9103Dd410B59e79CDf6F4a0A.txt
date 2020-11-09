@@ -1,0 +1,6 @@
+{
+"addrbalance": "0",
+"balance": "0",
+"pendingbalance": "0",
+"transactions": []
+}

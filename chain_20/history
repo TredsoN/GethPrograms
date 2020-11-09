@@ -1,0 +1,6 @@
+eth.pendingTransactions
+web3.fromWei(eth.getBalance(eth.accounts[0]),"ether")
+web3.fromWei(eth.getBalance(eth.accounts[1]),"ether")
+miner.setEtherbase(eth.accounts[0]);miner.start(1);admin.sleepBlocks(20);miner.stop()
+miner.setEtherbase(eth.accounts[1]);miner.start(1);admin.sleepBlocks(20);miner.stop()
+miner.setEtherbase(eth.accounts[6]);miner.start(1);admin.sleepBlocks(20);miner.stop()
